@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <com.example.actionview.ActionView
+        android:id="@+id/actionView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:imageVisible="true"
+        app:actionColor="@color/white"
+        app:subtitleVisible="true"
+        app:title="Hello"
+        app:actionText="Retry"
+        app:subtitle="Something went terribly wrong!">
+    </com.example.actionview.ActionView>
+
+</android.support.constraint.ConstraintLayout>

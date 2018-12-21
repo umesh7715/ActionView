@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionViewDefaultTitleColor">#cc000000</color>
+    <color name="actionViewDefaultSubtitleColor">#78000000</color>
+    <color name="actionViewDefaultActionTextColor">#ffffff</color>
+
+    <color name="white">#ffffff</color>
+
+
+    <color name="actionViewDefaultActionViewBackgroundColor">#03a9f4</color>
+    <color name="actionViewDefaultActionTextBackgroundColor">#c2185b</color>
+    <color name="actionViewDefaultActionTextBackgroundStrokeColor">#55c2185b</color>
+</resources>

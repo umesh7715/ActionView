@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ActionView">
+        <attr name="image" format="reference" />
+        <attr name="imageTint" format="color" />
+        <attr name="imageVisible" format="boolean" />
+        <attr name="imageSize" format="dimension" />
+        <attr name="title" format="string" />
+        <attr name="titleColor" format="color" />
+        <attr name="titleVisible" format="boolean" />
+        <attr name="subtitle" format="string" />
+        <attr name="subtitleColor" format="color" />
+        <attr name="subtitleVisible" format="boolean" />
+        <attr name="actionText" format="string" />
+        <attr name="actionBackground" format="reference" />
+        <attr name="actionColor" format="color" />
+        <attr name="actionVisible" format="boolean" />
+        <attr name="defaultActionBackground" format="color" />
+    </declare-styleable>
+
+</resources>
